@@ -1,0 +1,40 @@
+{
+	"RESOLUTION" : {
+		"__type" : "ngov3.ResolutionType,Assembly-CSharp",
+		"value" : 1
+	},
+	"UNLOCKEDZIP" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+		]
+	},
+	"IMAGEHISTORY" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			"Ngocredits","tweet_selfie_cho_start_001","hana","@Waaa404","tweet_selfie_cho_happy_002","Akihabara_SDIM1854","Akihabara_SDIM1836","@kazari_com","tweet_selfie_cho_cosplay_002","IMG_20190505_182017","tweet_selfie_cho_happy_001","tweet_selfie_cho_sorrow_002","tweet_selfie_ame_happy_001","nerima_SDIM1528","@Llat_sann","nichijou_IMG_0812","shibuya_SDIM1210","tweet_selfie_ame_home_001","tweet_selfie_ame_home_002","tweet_selfie_cho_sleepy_001","@hickey_","tweet_selfie_ame_sorrow_001","tweet_selfie_ame_game_001","MV_thumbnail","nerima_SDIM1467","nerima_SDIM1458","@PPechka","@8744_HanaYoshi","@_Rlyeh","@cokecocolus","@ittokyu","@ky0_z9","@mtok_1","@p_maco13","@shibaitaroka_7","@y_mi1nt","harajuku_SDIM2080","harajuku_SDIM2047","nerima_SDIM1498","tweet_selfie_cho_happy_005","tweet_selfie_ame_cry_001","@kakowanai","tweet_selfie_cho_otikomu_001","@4040lmn","@ooomiiroD","tweet_selfie_ame_odekake_001","@berryverrine","@89ypyp","@Luna_fallenmoon","@__shi27","@color_reverse_9","@ittokyu_2","@lacaleche","@mui_61_mhnd","@panda_ame_3","@shida_eqe","@yf_fiz","@eguchi_saan","@9csms","@Matsuri_1024","@_cab8d9_","@common_ccc","@joedoudou","@ll0141","@mumupi01","@panda_kabe","@shifuratto_25","@yknsugar","ikebukuro_SDIM1333","tweet_selfie_ame_odekake_002","tweet_selfie_cho_happy_004","@ka2_com","nakano_SDIM1591","nakano_SDIM1603","@nando_teccha","yakiniku","@noncomcom","shinjuku_IMG_1312","@oekaki_73","tweet_selfie_cho_angel_001","koenji_SDIM1091","koenji_SDIM1092","juuen","nichijou_SDIM1933","@f_osakana","@9csms_2","@NORISTARCREAM","@_cab8d9_2","@coyura_o0","@juni_neu","@ltasaka_kentiku","@musagi_3","@pic_sksk","@shiro96haru","@yonayona_co","tweet_selfie_cho_nail_purple","tweet_selfie_cho_happy_end","@gidre___ame","@AI_roid_","@NORI_SHIRO2525","@_cpchan","@coyura_o0_2","@juni_neu_2","@maikeru11231","@musounyan","@pikamodoki123","@shiromafu___","@yyyuoyahOy","shibuya_SDIM1167","tweet_selfie_cho_happy_003","@omrisoisina","tweet_selfie_cho_av","@gidre__cho","@AReME_10N23","@Naonari_S","@_nanenoninu","@doritton","@maikeru11231_2","@please_anzu","@shrimPun","@zundokokv","nerima_SDIM1416","tweet_selfie_cho_cosplay_003","shibuya_SDIM0781","@odayaka_kion","@s0ltie","tweet_selfie_cho_ntr","@hanabushi_","@A_mane86","@NeNe_Stamp","@_pokimiss","@dwyrjGe627ilB4J","@kado_onyx","@makirogen","@ne_san_mi","@pm_hakka","@sincha_chanoyu","tweet_selfie_ame_cool_001","@aki_masanari","Akihabara_SDIM1882","@hibimeganesama","@Anies_only","@Ni_sin13","@a_blk_clps","@dwyrjGe627ilB4J_2","@kaito_cm","@marihico","@ne_san_mi_2","@ppp_lover31","@siso_oob","@imllsn","@AnotherF22","@Npopoti","@a_e_a_e_a_e_a","@eganagu","@mato_chan_Si","@neetonyan","@qhxid","@sle060611","@kusari_usagi","@AsH8n","@Npopoti_2","@airdan_kok","@eight_illust","@kanano_koharu","@mazamuno","@nemlilith","@ransuchosei","@stylishtrash","SDIM1955","tweet_selfie_ame_line_smile_001","@niwatonira_2","@trcoot","@BEBE_fate","@Oemunn","@akaba_aka","@eiri7hamono","@kaneyan000","@meltingfj","@nhsmmM","@reburia1_mup","@stylishtrash_2","@shionnn_k","@BaTt12345","@Quirt_co_jp","@elnovaline","@kanisushi_umai","@memeOl_l","@nhw5k","@rhino2ka","@t_y_mato","ikebukuro_SDIM1396","tweet_selfie_cho_yami_002","nakano_SDIM1558","tweet_selfie_ame_happy_002","@smiyao","@Berphegore","@RINdesu_4649","@akira702","@falsetto_boy","@kasukyu9","@migi_iro___","@niwatonira","@ricebread_tm","@tamagonohako","tweet_selfie_cho_yami_003","ichigaya_IMG_1271","tweet_selfie_ame_happa_001","@khr_42","kyouso_ending","@tonarinohey","@Brokenrobo_000","@Re_p_y_o_n_","@akiyama_kou72","@fictionesJLB","@kawa_kunn","@mioto_nobody","@rioapr03","@teiki_keno","@000makyo","@Brokenrobo_000_2","@Runami_online","@amamefuka","@gdted_cylinder","@kawa_kunn_2","@mitomori_go","@nkymaaaa__","@rito_azusagawa","@tem_minori","tweet_selfie_cho_yami_001","nichijou_IMG_0926","tweet_selfie_cho_nail_black","harajuku_SDIM2018","@JajajaNosuke","@Saishi_sub","nichijou_IMG_20190622_033547","@00_900_00","@CHANTA33333","@RyockT_","@amnesiapigs","@ha4to","@mizunopenta1","@noinoiro","@rkgk_haco","@tem_minori_2","tweet_selfie_cho_happa_001","@00lilmee","@Coco_Chainsaw","@SFzyunroku","@amnesiapigs_2","@hachino_miya23","@mmmn_hyne51","@roroixi","@thendoftimeline","@02T_TzZ","@E1lKTaqgyf1Tjpa ","@angeleaterx","@hakainoika","@kii_nidonezuki","@mnemomnemo","@nyalra","@ruriMAringo","@thendoftimeline_2","@0Amogi","@EzoDoDance","@SanmaLemon","@aotamari_398","@hanabusayuki__","@kimihakimisago","@mochikiri3","@o2Iro8","@tkjr_op"
+		]
+	},
+	"ENDINGS" : {
+		"__type" : "System.Collections.Generic.List`1[[NGO.EndingType, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			4,8,22,13,2,9,12,14,17,16,10,17,2,19,19,21,3,21,22,16,16,16,21
+		]
+	},
+	"HAISHINSPEED" : {
+		"__type" : "System.Int32",
+		"value" : 2
+	},
+	"SE" : {
+		"__type" : "System.Single",
+		"value" : 0.6
+	},
+	"BGM" : {
+		"__type" : "System.Single",
+		"value" : 0.6
+	},
+	"LANG" : {
+		"__type" : "ngov3.LanguageType,Assembly-CSharp",
+		"value" : 0
+	}
+}
