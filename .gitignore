@@ -6,3 +6,6 @@ MonoBleedingEdge
 Plugins
 Resources
 Info.plist
+
+# macOS
+.DS_Store
