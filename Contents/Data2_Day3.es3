@@ -58,10 +58,7 @@
 	"USEDNETAS" : {
 		"__type" : "System.Collections.Generic.List`1[[ngov3.AlphaLevel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
 		"value" : [
-			{
-				"alphaType" : 3,
-				"level" : 1
-			}
+			
 		]
 	},
 	"HAVINGNETAS" : {
@@ -71,10 +68,7 @@
 				"alphaType" : 0,
 				"level" : 1
 			},{
-				"alphaType" : 1,
-				"level" : 1
-			},{
-				"alphaType" : 3,
+				"alphaType" : 5,
 				"level" : 1
 			}
 		]
@@ -101,7 +95,7 @@
 			},{
 				"statusType" : 2,
 				"currentValue" : {
-					"value" : 1912
+					"value" : 1001
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -133,7 +127,7 @@
 			},{
 				"statusType" : 3,
 				"currentValue" : {
-					"value" : 32
+					"value" : 0
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -149,7 +143,7 @@
 			},{
 				"statusType" : 4,
 				"currentValue" : {
-					"value" : 42
+					"value" : 40
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -165,7 +159,7 @@
 			},{
 				"statusType" : 5,
 				"currentValue" : {
-					"value" : 23
+					"value" : 11
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -213,7 +207,7 @@
 			},{
 				"statusType" : 12,
 				"currentValue" : {
-					"value" : 2
+					"value" : 0
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -245,7 +239,7 @@
 			},{
 				"statusType" : 14,
 				"currentValue" : {
-					"value" : 1
+					"value" : 0
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -277,7 +271,7 @@
 			},{
 				"statusType" : 16,
 				"currentValue" : {
-					"value" : 1
+					"value" : 0
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -309,7 +303,7 @@
 			},{
 				"statusType" : 18,
 				"currentValue" : {
-					"value" : 1
+					"value" : 0
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -388,13 +382,13 @@
 	"DAYACTIONHISTORY" : {
 		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
 		"value" : [
-			"EntameGame","InternetPoketterF0Y12","Imbouron_1"
+			"SleepToTomorrow3"
 		]
 	},
 	"EVENTHISTORY" : {
 		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
 		"value" : [
-			"LineWeekDay094","LineWeekDay036"
+			
 		]
 	},
 	"POKETTERHISTORY" : {
@@ -428,76 +422,6 @@
 					
 				],
 				"cmdType" : 127
-			},{
-				"Type" : 182,
-				"day" : 2,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 69
-			},{
-				"Type" : 122,
-				"day" : 2,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 991,
-				"RtNumber" : 39,
-				"kusoReps" : [
-					488
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 94
-			},{
-				"Type" : 122,
-				"day" : 2,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 94
-			},{
-				"Type" : 295,
-				"day" : 2,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 1000,
-				"RtNumber" : 39,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 20
-			},{
-				"Type" : 295,
-				"day" : 2,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 20
 			}
 		]
 	},
@@ -827,20 +751,6 @@
 				"day" : 0,
 				"freeMessage" : ""
 			},{
-				"user" : 1,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 1024,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
 				"user" : 4,
 				"id" : 1295,
 				"responseType" : 1,
@@ -849,105 +759,21 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 789,
+				"id" : 704,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 790,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1292,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 3,
-				"id" : 999,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 1,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 91,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 1,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1295,
+				"id" : 705,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 805,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 806,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 807,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 808,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1292,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 3,
-				"id" : 999,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 2,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 33,
+				"id" : 706,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,

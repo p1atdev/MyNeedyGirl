@@ -25,7 +25,7 @@
 	},
 	"WISHLIST" : {
 		"__type" : "System.Int32",
-		"value" : 2
+		"value" : 1
 	},
 	"ISGEDATSU" : {
 		"__type" : "System.Boolean",
@@ -41,7 +41,7 @@
 	},
 	"FIRSTDATE" : {
 		"__type" : "ngov3.CmdType,Assembly-CSharp",
-		"value" : 108
+		"value" : 123
 	},
 	"TRAUMA" : {
 		"__type" : "NGO.JineType,Assembly-CSharp",
@@ -59,35 +59,38 @@
 		"__type" : "System.Collections.Generic.List`1[[ngov3.AlphaLevel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
 		"value" : [
 			{
-				"alphaType" : 0,
+				"alphaType" : 3,
 				"level" : 1
 			},{
-				"alphaType" : 1,
+				"alphaType" : 4,
 				"level" : 1
 			},{
-				"alphaType" : 1,
+				"alphaType" : 3,
 				"level" : 2
 			},{
-				"alphaType" : 2,
-				"level" : 1
+				"alphaType" : 4,
+				"level" : 2
 			},{
 				"alphaType" : 9,
 				"level" : 1
 			},{
-				"alphaType" : 6,
-				"level" : 1
+				"alphaType" : 3,
+				"level" : 3
 			},{
 				"alphaType" : 11,
 				"level" : 1
+			},{
+				"alphaType" : 4,
+				"level" : 3
 			},{
 				"alphaType" : 9,
-				"level" : 2
-			},{
-				"alphaType" : 11,
 				"level" : 2
 			},{
 				"alphaType" : 9,
 				"level" : 3
+			},{
+				"alphaType" : 11,
+				"level" : 2
 			}
 		]
 	},
@@ -98,67 +101,64 @@
 				"alphaType" : 0,
 				"level" : 1
 			},{
-				"alphaType" : 1,
-				"level" : 1
-			},{
-				"alphaType" : 2,
-				"level" : 1
-			},{
 				"alphaType" : 3,
 				"level" : 1
 			},{
-				"alphaType" : 6,
+				"alphaType" : 4,
 				"level" : 1
 			},{
 				"alphaType" : 1,
+				"level" : 1
+			},{
+				"alphaType" : 3,
 				"level" : 2
+			},{
+				"alphaType" : 2,
+				"level" : 1
 			},{
 				"alphaType" : 7,
 				"level" : 1
 			},{
-				"alphaType" : 0,
+				"alphaType" : 4,
 				"level" : 2
+			},{
+				"alphaType" : 6,
+				"level" : 1
 			},{
 				"alphaType" : 9,
 				"level" : 1
-			},{
-				"alphaType" : 5,
-				"level" : 1
-			},{
-				"alphaType" : 8,
-				"level" : 1
-			},{
-				"alphaType" : 2,
-				"level" : 2
-			},{
-				"alphaType" : 9,
-				"level" : 2
 			},{
 				"alphaType" : 11,
 				"level" : 1
 			},{
-				"alphaType" : 12,
-				"level" : 1
+				"alphaType" : 3,
+				"level" : 3
+			},{
+				"alphaType" : 9,
+				"level" : 2
+			},{
+				"alphaType" : 4,
+				"level" : 3
 			},{
 				"alphaType" : 10,
 				"level" : 1
 			},{
-				"alphaType" : 6,
-				"level" : 2
+				"alphaType" : 9,
+				"level" : 3
 			},{
 				"alphaType" : 11,
 				"level" : 2
 			},{
-				"alphaType" : 9,
-				"level" : 3
-			},{
-				"alphaType" : 1,
-				"level" : 3
-			},{
-				"alphaType" : 11,
-				"level" : 3
+				"alphaType" : 4,
+				"level" : 4
 			},{
 				"alphaType" : 9,
+				"level" : 4
+			},{
+				"alphaType" : 12,
+				"level" : 1
+			},{
+				"alphaType" : 3,
 				"level" : 4
 			}
 		]
@@ -185,7 +185,7 @@
 			},{
 				"statusType" : 2,
 				"currentValue" : {
-					"value" : 498456
+					"value" : 248348
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -217,7 +217,7 @@
 			},{
 				"statusType" : 3,
 				"currentValue" : {
-					"value" : 46
+					"value" : 51
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -233,7 +233,7 @@
 			},{
 				"statusType" : 4,
 				"currentValue" : {
-					"value" : 23
+					"value" : 43
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -249,7 +249,7 @@
 			},{
 				"statusType" : 5,
 				"currentValue" : {
-					"value" : 75
+					"value" : 100
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -265,7 +265,7 @@
 			},{
 				"statusType" : 9,
 				"currentValue" : {
-					"value" : 7
+					"value" : 10
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -281,7 +281,7 @@
 			},{
 				"statusType" : 10,
 				"currentValue" : {
-					"value" : 1
+					"value" : 3
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -297,7 +297,7 @@
 			},{
 				"statusType" : 12,
 				"currentValue" : {
-					"value" : 0
+					"value" : 2
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -329,7 +329,7 @@
 			},{
 				"statusType" : 14,
 				"currentValue" : {
-					"value" : 3
+					"value" : 2
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -345,7 +345,7 @@
 			},{
 				"statusType" : 15,
 				"currentValue" : {
-					"value" : 2
+					"value" : 3
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -361,7 +361,7 @@
 			},{
 				"statusType" : 16,
 				"currentValue" : {
-					"value" : 12
+					"value" : 11
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -377,7 +377,7 @@
 			},{
 				"statusType" : 11,
 				"currentValue" : {
-					"value" : 1
+					"value" : 0
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -393,7 +393,7 @@
 			},{
 				"statusType" : 18,
 				"currentValue" : {
-					"value" : 0
+					"value" : 13
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -459,11 +459,11 @@
 	},
 	"PSYCHECOUNT" : {
 		"__type" : "System.Int32",
-		"value" : 0
+		"value" : 1
 	},
 	"MIDOKUCOUNT" : {
 		"__type" : "System.Int32",
-		"value" : 4
+		"value" : 1
 	},
 	"LOOPCOUNT" : {
 		"__type" : "System.Int32",
@@ -472,13 +472,13 @@
 	"DAYACTIONHISTORY" : {
 		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
 		"value" : [
-			"EntameGame","InternetYoutube","Zatudan_1","InternetPoketterF0Y12","PlayIchatukuTalk","Gamejikkyou_1","OdekakeAkihabara","Gamejikkyou_2","InternetYoutube","Internet2chY12","Otakutalk_1","OkusuriDaypassOverdoseY1","SleepToTomorrow1","OdekakeHarajuku","Yamihaishin_1","InternetPoketterF0Y3","InternetPoketterF0Y3","Hnahaisin_1","OkusuriPuronOverdoseY2","Angel_1","DarknessS1","Darkness_1","PlayMakeLove","Yamihaishin_2","OdekakeHospital","Angel_2","PlayIchatukuTalk","InternetPoketterPoem","Yamihaishin_3","OkusuriHiPuronOverdoseY4","OkusuriHappaY4","SleepToTomorrow3"
+			"InternetPoketterF0Y12","Internet2chY12","Imbouron_1","OdekakeHospital","Kaidan_1","EntameGame","EntameGame","Imbouron_2","InternetYoutube","InternetYoutube","OdekakeHospital","Internet2chY12","PlayIchatukuIchatuku","Kaidan_2","OkusuriDaypassOverdoseY1","Yamihaishin_1","InternetYoutube","InternetPoketterF0Y3","Imbouron_3","OdekakeIchigaya","Angel_1","OkusuriPuronOverdoseY2","Kaidan_3","OkusuriHiPuronOverdoseY3","OkusuriHiPuronOverdoseY3","OkusuriHiPuronOverdoseY3","Yamihaishin_2","PlayIchatukuIchatuku","PlayIchatukuIchatuku","Yamihaishin_3","InternetPoketterPoem","OkusuriHiPuronOverdoseY4","DarknessS1","Darkness_1","OkusuriPsyche","Angel_2"
 		]
 	},
 	"EVENTHISTORY" : {
 		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
 		"value" : [
-			"LineWeekDay053","LineWeekDay098","LineWeekDay007","LineWeekDay114","Event_Cheerup","LineWeekDay054","LineWeekDay071","LineWeekDay019","LineWeekDay088","Event_Pinojien","LineWeekDay005","Event_Urge","LineWeekDay111","LineWeekDay118","LineWeekDay016","LineWeekDay068","Event_HelpJINE","LineWeekDay025","LineWeekDay046","Event_Jisatumisui","Event_Limit"
+			"LineWeekDay076","LineWeekDay004","LineWeekDay097","Kenjo_1","LineWeekDay066","LineWeekDay031","LineWeekDay071","LineWeekDay048","LineWeekDay065","LineWeekDay111","Event_Kasoworry","LineWeekDay050","LineWeekDay062","LineWeekDay019","LineWeekDay028","LineWeekDay018","LineWeekDay081","Event_Anxiety","LineWeekDay098","Event_Jisatumisui","LineWeekDay120","LineWeekDay010","Event_HelpJINE","LineWeekDay030"
 		]
 	},
 	"POKETTERHISTORY" : {
@@ -513,8 +513,148 @@
 				],
 				"cmdType" : 127
 			},{
-				"Type" : 1,
+				"Type" : 121,
 				"day" : 2,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 991,
+				"RtNumber" : 39,
+				"kusoReps" : [
+					226
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 94
+			},{
+				"Type" : 40,
+				"day" : 2,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 1000,
+				"RtNumber" : 39,
+				"kusoReps" : [
+					501
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 101
+			},{
+				"Type" : 40,
+				"day" : 2,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 101
+			},{
+				"Type" : 295,
+				"day" : 2,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 1000,
+				"RtNumber" : 39,
+				"kusoReps" : [
+					180
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 20
+			},{
+				"Type" : 295,
+				"day" : 2,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 20
+			},{
+				"Type" : 245,
+				"day" : 2,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 1793,
+				"RtNumber" : 70,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 127
+			},{
+				"Type" : 180,
+				"day" : 3,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 1793,
+				"RtNumber" : 70,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 123
+			},{
+				"Type" : 180,
+				"day" : 3,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 123
+			},{
+				"Type" : 300,
+				"day" : 3,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 1793,
+				"RtNumber" : 70,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 25
+			},{
+				"Type" : 300,
+				"day" : 3,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 25
+			},{
+				"Type" : 7,
+				"day" : 4,
 				"honbun" : "",
 				"IsOmote" : false,
 				"FavNumber" : 0,
@@ -527,8 +667,64 @@
 				],
 				"cmdType" : 69
 			},{
-				"Type" : 23,
-				"day" : 2,
+				"Type" : 2,
+				"day" : 4,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 69
+			},{
+				"Type" : 296,
+				"day" : 4,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 2012,
+				"RtNumber" : 78,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 21
+			},{
+				"Type" : 296,
+				"day" : 4,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 21
+			},{
+				"Type" : 34,
+				"day" : 5,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 4757,
+				"RtNumber" : 184,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 71
+			},{
+				"Type" : 34,
+				"day" : 5,
 				"honbun" : "",
 				"IsOmote" : false,
 				"FavNumber" : 0,
@@ -540,358 +736,260 @@
 					
 				],
 				"cmdType" : 71
+			},{
+				"Type" : 22,
+				"day" : 5,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 4757,
+				"RtNumber" : 184,
+				"kusoReps" : [
+					174
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 71
+			},{
+				"Type" : 22,
+				"day" : 5,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 71
+			},{
+				"Type" : 242,
+				"day" : 5,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 4757,
+				"RtNumber" : 184,
+				"kusoReps" : [
+					211
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 123
+			},{
+				"Type" : 242,
+				"day" : 5,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 123
+			},{
+				"Type" : 198,
+				"day" : 6,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 4757,
+				"RtNumber" : 184,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 127
+			},{
+				"Type" : 198,
+				"day" : 6,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 127
+			},{
+				"Type" : 39,
+				"day" : 6,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 4757,
+				"RtNumber" : 184,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 101
+			},{
+				"Type" : 39,
+				"day" : 6,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 101
+			},{
+				"Type" : 170,
+				"day" : 6,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 92
+			},{
+				"Type" : 301,
+				"day" : 6,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 4757,
+				"RtNumber" : 184,
+				"kusoReps" : [
+					491
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 26
+			},{
+				"Type" : 301,
+				"day" : 6,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 26
+			},{
+				"Type" : 191,
+				"day" : 7,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 5435,
+				"RtNumber" : 210,
+				"kusoReps" : [
+					481
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 76
+			},{
+				"Type" : 191,
+				"day" : 7,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 76
+			},{
+				"Type" : 286,
+				"day" : 7,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 5435,
+				"RtNumber" : 210,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 50
+			},{
+				"Type" : 286,
+				"day" : 7,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 50
+			},{
+				"Type" : 260,
+				"day" : 8,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 71
+			},{
+				"Type" : 110,
+				"day" : 8,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 2656,
+				"RtNumber" : 584,
+				"kusoReps" : [
+					508,179
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 95
+			},{
+				"Type" : 110,
+				"day" : 8,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 95
 			},{
 				"Type" : 205,
-				"day" : 2,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 71
-			},{
-				"Type" : 265,
-				"day" : 2,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 991,
-				"RtNumber" : 39,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 0
-			},{
-				"Type" : 265,
-				"day" : 2,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 0
-			},{
-				"Type" : 122,
-				"day" : 3,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 1018,
-				"RtNumber" : 40,
-				"kusoReps" : [
-					498
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 94
-			},{
-				"Type" : 122,
-				"day" : 3,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 94
-			},{
-				"Type" : 28,
-				"day" : 3,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 91
-			},{
-				"Type" : 206,
-				"day" : 3,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 91
-			},{
-				"Type" : 290,
-				"day" : 3,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 1027,
-				"RtNumber" : 40,
-				"kusoReps" : [
-					214
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 5
-			},{
-				"Type" : 290,
-				"day" : 3,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 5
-			},{
-				"Type" : 207,
-				"day" : 3,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 5
-			},{
-				"Type" : 73,
-				"day" : 4,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 108
-			},{
-				"Type" : 291,
-				"day" : 4,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 1255,
-				"RtNumber" : 49,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 6
-			},{
-				"Type" : 291,
-				"day" : 4,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 6
-			},{
-				"Type" : 18,
-				"day" : 5,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 71
-			},{
-				"Type" : 39,
-				"day" : 5,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 2148,
-				"RtNumber" : 83,
-				"kusoReps" : [
-					506
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 101
-			},{
-				"Type" : 39,
-				"day" : 5,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 101
-			},{
-				"Type" : 310,
-				"day" : 5,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 2148,
-				"RtNumber" : 83,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 10
-			},{
-				"Type" : 310,
-				"day" : 5,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 10
-			},{
-				"Type" : 199,
-				"day" : 6,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 2828,
-				"RtNumber" : 109,
-				"kusoReps" : [
-					197
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 127
-			},{
-				"Type" : 199,
-				"day" : 6,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 127
-			},{
-				"Type" : 84,
-				"day" : 7,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 2828,
-				"RtNumber" : 109,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 107
-			},{
-				"Type" : 84,
-				"day" : 7,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 107
-			},{
-				"Type" : 286,
-				"day" : 7,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 2828,
-				"RtNumber" : 109,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 50
-			},{
-				"Type" : 286,
-				"day" : 7,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 50
-			},{
-				"Type" : 112,
-				"day" : 8,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 5204,
-				"RtNumber" : 201,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 95
-			},{
-				"Type" : 112,
 				"day" : 8,
 				"honbun" : "",
 				"IsOmote" : false,
@@ -905,21 +1003,21 @@
 				],
 				"cmdType" : 95
 			},{
-				"Type" : 166,
+				"Type" : 297,
 				"day" : 8,
 				"honbun" : "",
 				"IsOmote" : true,
-				"FavNumber" : 5204,
-				"RtNumber" : 201,
+				"FavNumber" : 2316,
+				"RtNumber" : 564,
 				"kusoReps" : [
-					
+					505,179
 				],
 				"kusoRepString" : [
 					
 				],
-				"cmdType" : 95
+				"cmdType" : 22
 			},{
-				"Type" : 166,
+				"Type" : 297,
 				"day" : 8,
 				"honbun" : "",
 				"IsOmote" : false,
@@ -931,52 +1029,80 @@
 				"kusoRepString" : [
 					
 				],
-				"cmdType" : 95
+				"cmdType" : 22
 			},{
-				"Type" : 281,
-				"day" : 8,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 5204,
-				"RtNumber" : 201,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 35
-			},{
-				"Type" : 281,
-				"day" : 8,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 35
-			},{
-				"Type" : 282,
-				"day" : 8,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 35
-			},{
-				"Type" : 69,
+				"Type" : 188,
 				"day" : 9,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 3235,
+				"RtNumber" : 988,
+				"kusoReps" : [
+					213
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 121
+			},{
+				"Type" : 188,
+				"day" : 9,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 121
+			},{
+				"Type" : 318,
+				"day" : 9,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 3420,
+				"RtNumber" : 728,
+				"kusoReps" : [
+					368
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 55
+			},{
+				"Type" : 318,
+				"day" : 9,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 55
+			},{
+				"Type" : 67,
+				"day" : 10,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 5306,
+				"RtNumber" : 1056,
+				"kusoReps" : [
+					173
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 81
+			},{
+				"Type" : 67,
+				"day" : 10,
 				"honbun" : "",
 				"IsOmote" : false,
 				"FavNumber" : 0,
@@ -989,49 +1115,21 @@
 				],
 				"cmdType" : 81
 			},{
-				"Type" : 318,
-				"day" : 9,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 2571,
-				"RtNumber" : 447,
-				"kusoReps" : [
-					347
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 55
-			},{
-				"Type" : 318,
-				"day" : 9,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 55
-			},{
-				"Type" : 108,
+				"Type" : 302,
 				"day" : 10,
 				"honbun" : "",
 				"IsOmote" : true,
-				"FavNumber" : 3579,
-				"RtNumber" : 855,
+				"FavNumber" : 4521,
+				"RtNumber" : 1106,
 				"kusoReps" : [
-					482
+					229
 				],
 				"kusoRepString" : [
 					
 				],
-				"cmdType" : 104
+				"cmdType" : 27
 			},{
-				"Type" : 108,
+				"Type" : 302,
 				"day" : 10,
 				"honbun" : "",
 				"IsOmote" : false,
@@ -1043,65 +1141,9 @@
 				"kusoRepString" : [
 					
 				],
-				"cmdType" : 104
+				"cmdType" : 27
 			},{
-				"Type" : 208,
-				"day" : 10,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 104
-			},{
-				"Type" : 316,
-				"day" : 10,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 3479,
-				"RtNumber" : 835,
-				"kusoReps" : [
-					232
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 124
-			},{
-				"Type" : 316,
-				"day" : 10,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 124
-			},{
-				"Type" : 139,
-				"day" : 11,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 5270,
-				"RtNumber" : 1290,
-				"kusoReps" : [
-					190
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 66
-			},{
-				"Type" : 139,
+				"Type" : 154,
 				"day" : 11,
 				"honbun" : "",
 				"IsOmote" : false,
@@ -1113,16 +1155,44 @@
 				"kusoRepString" : [
 					
 				],
-				"cmdType" : 66
+				"cmdType" : 85
+			},{
+				"Type" : 153,
+				"day" : 11,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 85
+			},{
+				"Type" : 60,
+				"day" : 12,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 85
 			},{
 				"Type" : 287,
-				"day" : 11,
+				"day" : 12,
 				"honbun" : "",
 				"IsOmote" : true,
-				"FavNumber" : 5450,
-				"RtNumber" : 1230,
+				"FavNumber" : 5293,
+				"RtNumber" : 1324,
 				"kusoReps" : [
-					212
+					193
 				],
 				"kusoRepString" : [
 					
@@ -1130,7 +1200,7 @@
 				"cmdType" : 51
 			},{
 				"Type" : 287,
-				"day" : 11,
+				"day" : 12,
 				"honbun" : "",
 				"IsOmote" : false,
 				"FavNumber" : 0,
@@ -1143,63 +1213,21 @@
 				],
 				"cmdType" : 51
 			},{
-				"Type" : 180,
-				"day" : 12,
+				"Type" : 9,
+				"day" : 13,
 				"honbun" : "",
 				"IsOmote" : true,
-				"FavNumber" : 13119,
-				"RtNumber" : 2409,
+				"FavNumber" : 8154,
+				"RtNumber" : 1944,
 				"kusoReps" : [
-					493,253
+					185,505
 				],
 				"kusoRepString" : [
 					
 				],
-				"cmdType" : 123
+				"cmdType" : 92
 			},{
-				"Type" : 180,
-				"day" : 12,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 123
-			},{
-				"Type" : 319,
-				"day" : 12,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 13219,
-				"RtNumber" : 2429,
-				"kusoReps" : [
-					445
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 56
-			},{
-				"Type" : 319,
-				"day" : 12,
-				"honbun" : "",
-				"IsOmote" : false,
-				"FavNumber" : 0,
-				"RtNumber" : 0,
-				"kusoReps" : [
-					
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 56
-			},{
-				"Type" : 25,
+				"Type" : 9,
 				"day" : 13,
 				"honbun" : "",
 				"IsOmote" : false,
@@ -1211,23 +1239,9 @@
 				"kusoRepString" : [
 					
 				],
-				"cmdType" : 91
+				"cmdType" : 92
 			},{
-				"Type" : 197,
-				"day" : 13,
-				"honbun" : "",
-				"IsOmote" : true,
-				"FavNumber" : 19547,
-				"RtNumber" : 2828,
-				"kusoReps" : [
-					252
-				],
-				"kusoRepString" : [
-					
-				],
-				"cmdType" : 100
-			},{
-				"Type" : 197,
+				"Type" : 8,
 				"day" : 13,
 				"honbun" : "",
 				"IsOmote" : false,
@@ -1239,16 +1253,16 @@
 				"kusoRepString" : [
 					
 				],
-				"cmdType" : 100
+				"cmdType" : 92
 			},{
 				"Type" : 288,
 				"day" : 13,
 				"honbun" : "",
 				"IsOmote" : true,
-				"FavNumber" : 19136,
-				"RtNumber" : 2914,
+				"FavNumber" : 7744,
+				"RtNumber" : 2029,
 				"kusoReps" : [
-					211
+					502
 				],
 				"kusoRepString" : [
 					
@@ -1269,21 +1283,49 @@
 				],
 				"cmdType" : 52
 			},{
-				"Type" : 191,
+				"Type" : 258,
 				"day" : 14,
 				"honbun" : "",
 				"IsOmote" : true,
-				"FavNumber" : 62260,
-				"RtNumber" : 5587,
+				"FavNumber" : 22230,
+				"RtNumber" : 3129,
 				"kusoReps" : [
-					498,174
+					209,254
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 100
+			},{
+				"Type" : 258,
+				"day" : 14,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 100
+			},{
+				"Type" : 62,
+				"day" : 14,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 22850,
+				"RtNumber" : 3145,
+				"kusoReps" : [
+					192,249
 				],
 				"kusoRepString" : [
 					
 				],
 				"cmdType" : 86
 			},{
-				"Type" : 191,
+				"Type" : 62,
 				"day" : 14,
 				"honbun" : "",
 				"IsOmote" : false,
@@ -1297,22 +1339,22 @@
 				],
 				"cmdType" : 86
 			},{
-				"Type" : 53,
-				"day" : 14,
+				"Type" : 108,
+				"day" : 15,
 				"honbun" : "",
 				"IsOmote" : true,
-				"FavNumber" : 62490,
-				"RtNumber" : 5717,
+				"FavNumber" : 22370,
+				"RtNumber" : 3015,
 				"kusoReps" : [
-					486,191
+					193
 				],
 				"kusoRepString" : [
 					
 				],
-				"cmdType" : 88
+				"cmdType" : 104
 			},{
-				"Type" : 53,
-				"day" : 14,
+				"Type" : 108,
+				"day" : 15,
 				"honbun" : "",
 				"IsOmote" : false,
 				"FavNumber" : 0,
@@ -1323,16 +1365,44 @@
 				"kusoRepString" : [
 					
 				],
-				"cmdType" : 88
+				"cmdType" : 104
+			},{
+				"Type" : 316,
+				"day" : 15,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 22410,
+				"RtNumber" : 3235,
+				"kusoReps" : [
+					207
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 124
+			},{
+				"Type" : 316,
+				"day" : 15,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 124
 			},{
 				"Type" : 380,
 				"day" : 15,
 				"honbun" : "",
 				"IsOmote" : true,
-				"FavNumber" : 62210,
-				"RtNumber" : 5777,
+				"FavNumber" : 25816,
+				"RtNumber" : 3280,
 				"kusoReps" : [
-					506,197
+					189
 				],
 				"kusoRepString" : [
 					
@@ -1353,7 +1423,7 @@
 				],
 				"cmdType" : 127
 			},{
-				"Type" : 233,
+				"Type" : 234,
 				"day" : 15,
 				"honbun" : "",
 				"IsOmote" : false,
@@ -1366,6 +1436,62 @@
 					
 				],
 				"cmdType" : 127
+			},{
+				"Type" : 181,
+				"day" : 16,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 25786,
+				"RtNumber" : 3240,
+				"kusoReps" : [
+					253,507,250
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 90
+			},{
+				"Type" : 181,
+				"day" : 16,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 90
+			},{
+				"Type" : 319,
+				"day" : 16,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 25961,
+				"RtNumber" : 3335,
+				"kusoReps" : [
+					397
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 56
+			},{
+				"Type" : 319,
+				"day" : 16,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 56
 			}
 		]
 	},
@@ -1702,157 +1828,10 @@
 				"day" : 0,
 				"freeMessage" : ""
 			},{
-				"user" : 4,
-				"id" : 1295,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 789,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 790,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1292,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 3,
-				"id" : 999,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 1,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 50,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1295,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 871,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 872,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 873,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 874,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1292,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 3,
-				"id" : 999,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 2,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 95,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
 				"user" : 1,
 				"id" : 999,
 				"responseType" : 0,
-				"stampType" : 0,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 2,
-				"id" : 999,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 3,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1301,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 3,
-				"id" : 999,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 135,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 136,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 1315,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 138,
-				"responseType" : 1,
-				"stampType" : 8,
+				"stampType" : 7,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
@@ -1906,9 +1885,16 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 4,
+				"id" : 73,
 				"responseType" : 1,
 				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 999,
+				"responseType" : 0,
+				"stampType" : 0,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
@@ -1920,21 +1906,35 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 749,
+				"id" : 831,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 750,
+				"id" : 832,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 751,
+				"id" : 833,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 834,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 835,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -1955,7 +1955,91 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 1421,
+				"id" : 1,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 999,
+				"responseType" : 0,
+				"stampType" : 1,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 1007,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 2,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 3,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1301,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 135,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 136,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 1315,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 138,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1292,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 2,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 94,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -1969,7 +2053,7 @@
 				"freeMessage" : ""
 			},{
 				"user" : 4,
-				"id" : 1309,
+				"id" : 1297,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -1983,28 +2067,21 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 337,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 1,
-				"id" : 338,
+				"id" : 1104,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 340,
+				"id" : 1105,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 1312,
+				"id" : 1106,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -2017,6 +2094,13 @@
 				"day" : 0,
 				"freeMessage" : ""
 			},{
+				"user" : 0,
+				"id" : 1027,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
 				"user" : 4,
 				"id" : 1295,
 				"responseType" : 1,
@@ -2025,21 +2109,84 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 791,
+				"id" : 789,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 792,
+				"id" : 790,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1292,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 1,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 63,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1295,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 793,
+				"id" : 809,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 810,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 811,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 812,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 813,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 814,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -2060,21 +2207,7 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 51,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 1,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 1025,
+				"id" : 28,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -2116,7 +2249,7 @@
 				"freeMessage" : ""
 			},{
 				"user" : 1,
-				"id" : 103,
+				"id" : 102,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -2124,6 +2257,62 @@
 			},{
 				"user" : 0,
 				"id" : 106,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1295,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 871,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 872,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 873,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 874,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1292,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 1,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 68,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -2182,81 +2371,11 @@
 				"id" : 999,
 				"responseType" : 1,
 				"stampType" : 8,
-				"day" : 1,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 68,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 1,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1295,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 690,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 691,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 692,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1292,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 3,
-				"id" : 999,
-				"responseType" : 1,
-				"stampType" : 8,
 				"day" : 2,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 16,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 1,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 1027,
+				"id" : 45,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -2284,7 +2403,140 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 108,
+				"id" : 107,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1295,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 836,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 837,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 838,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 839,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1292,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 1,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 62,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1295,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 749,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 750,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 751,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1292,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 2,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 1418,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 2,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 7,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1303,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 422,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -2347,7 +2599,7 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 85,
+				"id" : 47,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -2361,133 +2613,7 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 1,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1295,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 704,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 705,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 706,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 2,
-				"id" : 999,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 7,
-				"freeMessage" : ""
-			},{
-				"user" : 3,
-				"id" : 999,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 423,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 1,
-				"id" : 999,
-				"responseType" : 2,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : "神！！！！！！！"
-			},{
-				"user" : 0,
-				"id" : 424,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : "神！！！！！！！"
-			},{
-				"user" : 0,
-				"id" : 1313,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1295,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 851,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 852,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 853,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 854,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1292,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 3,
-				"id" : 999,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 2,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 2,
+				"id" : 1021,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -2501,7 +2627,7 @@
 				"freeMessage" : ""
 			},{
 				"user" : 4,
-				"id" : 1303,
+				"id" : 1295,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -2515,23 +2641,30 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 373,
+				"id" : 895,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
-				"user" : 1,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
+				"user" : 0,
+				"id" : 896,
+				"responseType" : 1,
+				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 1,
+				"id" : 897,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 898,
+				"responseType" : 1,
+				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
@@ -2543,21 +2676,42 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 875,
+				"id" : 815,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 876,
+				"id" : 816,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 877,
+				"id" : 817,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 818,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 819,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 820,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -2578,28 +2732,7 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 1418,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 1,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 1,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 1021,
+				"id" : 59,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -2648,16 +2781,9 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 1425,
+				"id" : 16,
 				"responseType" : 1,
 				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 1,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
@@ -2668,8 +2794,57 @@
 				"day" : 9,
 				"freeMessage" : ""
 			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 1313,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
 				"user" : 4,
 				"id" : 1295,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 840,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 841,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 842,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 843,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1292,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -2679,39 +2854,11 @@
 				"id" : 999,
 				"responseType" : 1,
 				"stampType" : 8,
-				"day" : 0,
+				"day" : 2,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 895,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 896,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 897,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 898,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 437,
+				"id" : 25,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -2724,6 +2871,13 @@
 				"day" : 10,
 				"freeMessage" : ""
 			},{
+				"user" : 4,
+				"id" : 1295,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
 				"user" : 3,
 				"id" : 999,
 				"responseType" : 1,
@@ -2732,49 +2886,42 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 442,
+				"id" : 932,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 443,
+				"id" : 933,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 444,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 445,
+				"id" : 934,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 4,
-				"id" : 1295,
+				"id" : 1292,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
-				"user" : 0,
-				"id" : 890,
+				"user" : 3,
+				"id" : 999,
 				"responseType" : 1,
 				"stampType" : 8,
-				"day" : 0,
+				"day" : 2,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 891,
+				"id" : 15,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -2822,13 +2969,6 @@
 				"day" : 11,
 				"freeMessage" : ""
 			},{
-				"user" : 4,
-				"id" : 1295,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
 				"user" : 3,
 				"id" : 999,
 				"responseType" : 1,
@@ -2837,49 +2977,7 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 932,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 933,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 934,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1295,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 752,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 753,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 754,
+				"id" : 437,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -2900,7 +2998,91 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 13,
+				"id" : 78,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 2,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 12,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1303,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 376,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 377,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 378,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 379,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 380,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 381,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1292,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 2,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 95,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -2917,7 +3099,140 @@
 				"id" : 999,
 				"responseType" : 1,
 				"stampType" : 8,
-				"day" : 12,
+				"day" : 13,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1292,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 644,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 645,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 648,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 649,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 650,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1295,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 773,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 774,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 775,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 776,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1292,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 1,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 1427,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1292,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 2,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 7,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 2,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 14,
 				"freeMessage" : ""
 			},{
 				"user" : 4,
@@ -2970,90 +3285,6 @@
 				"freeMessage" : ""
 			},{
 				"user" : 4,
-				"id" : 1292,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 3,
-				"id" : 999,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 2,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 65,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 1,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 6,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 2,
-				"id" : 999,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 13,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1306,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 3,
-				"id" : 999,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 382,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 383,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 384,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 1,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
 				"id" : 1295,
 				"responseType" : 1,
 				"stampType" : 8,
@@ -3061,37 +3292,37 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 773,
+				"id" : 844,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 774,
+				"id" : 845,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 775,
+				"id" : 846,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 776,
+				"id" : 847,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
-				"user" : 1,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
+				"user" : 4,
+				"id" : 1295,
+				"responseType" : 1,
+				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
@@ -3100,195 +3331,6 @@
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 1,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 1022,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1292,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 22,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 1,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 1022,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1295,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 794,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 795,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 796,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 1,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 1,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1292,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 3,
-				"id" : 999,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 2,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 43,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 1,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 1,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 2,
-				"id" : 999,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 14,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1295,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 3,
-				"id" : 999,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 904,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 905,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 906,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 907,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 908,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 909,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 4,
-				"id" : 1295,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
@@ -3389,13 +3431,6 @@
 				"day" : 15,
 				"freeMessage" : ""
 			},{
-				"user" : 4,
-				"id" : 1292,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
 				"user" : 3,
 				"id" : 999,
 				"responseType" : 1,
@@ -3404,105 +3439,49 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 644,
+				"id" : 442,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 645,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 1,
-				"id" : 651,
+				"id" : 443,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 652,
+				"id" : 444,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 653,
+				"id" : 445,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1295,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 654,
+				"id" : 890,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 1374,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 1375,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 1376,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 1377,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 1378,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 1379,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 1380,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 1381,
-				"responseType" : 1,
-				"stampType" : 8,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 1382,
+				"id" : 891,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -3523,14 +3502,14 @@
 				"freeMessage" : ""
 			},{
 				"user" : 1,
-				"id" : 231,
+				"id" : 233,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 234,
+				"id" : 236,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -3544,14 +3523,14 @@
 				"freeMessage" : ""
 			},{
 				"user" : 1,
-				"id" : 239,
+				"id" : 240,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 242,
+				"id" : 243,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -3565,14 +3544,14 @@
 				"freeMessage" : ""
 			},{
 				"user" : 1,
-				"id" : 245,
+				"id" : 246,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 248,
+				"id" : 249,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -3586,14 +3565,14 @@
 				"freeMessage" : ""
 			},{
 				"user" : 1,
-				"id" : 252,
+				"id" : 253,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 255,
+				"id" : 256,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -3607,14 +3586,14 @@
 				"freeMessage" : ""
 			},{
 				"user" : 1,
-				"id" : 259,
+				"id" : 261,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 262,
+				"id" : 264,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -3628,14 +3607,14 @@
 				"freeMessage" : ""
 			},{
 				"user" : 1,
-				"id" : 266,
+				"id" : 268,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 269,
+				"id" : 271,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -3649,14 +3628,14 @@
 				"freeMessage" : ""
 			},{
 				"user" : 1,
-				"id" : 273,
+				"id" : 275,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 276,
+				"id" : 278,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -3670,14 +3649,14 @@
 				"freeMessage" : ""
 			},{
 				"user" : 1,
-				"id" : 282,
+				"id" : 281,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 285,
+				"id" : 284,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -3705,35 +3684,84 @@
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 385,
+				"id" : 382,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 386,
+				"id" : 383,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
-				"user" : 1,
+				"user" : 0,
+				"id" : 384,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1295,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 821,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 822,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 823,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 824,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 825,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1292,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
 				"id" : 999,
-				"responseType" : 0,
-				"stampType" : 0,
-				"day" : 0,
-				"freeMessage" : ""
-			},{
-				"user" : 0,
-				"id" : 387,
 				"responseType" : 1,
 				"stampType" : 8,
-				"day" : 0,
+				"day" : 2,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 388,
+				"id" : 27,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
