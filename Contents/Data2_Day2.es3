@@ -124,7 +124,7 @@
 			},{
 				"statusType" : 3,
 				"currentValue" : {
-					"value" : 14
+					"value" : 15
 				},
 				"todaysDelta" : {
 					"value" : 0
@@ -396,8 +396,8 @@
 				"day" : 1,
 				"honbun" : "",
 				"IsOmote" : true,
-				"FavNumber" : 870,
-				"RtNumber" : 122,
+				"FavNumber" : 867,
+				"RtNumber" : 126,
 				"kusoReps" : [
 					
 				],
@@ -497,7 +497,7 @@
 				"freeMessage" : ""
 			},{
 				"user" : 1,
-				"id" : 958,
+				"id" : 959,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
@@ -616,14 +616,14 @@
 				"freeMessage" : ""
 			},{
 				"user" : 1,
-				"id" : 976,
+				"id" : 975,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
 				"freeMessage" : ""
 			},{
 				"user" : 0,
-				"id" : 978,
+				"id" : 977,
 				"responseType" : 1,
 				"stampType" : 8,
 				"day" : 0,
